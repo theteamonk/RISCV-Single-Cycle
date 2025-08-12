@@ -17,6 +17,10 @@
 
 ##
 
+<p align="center">
+<img width="650" height="662" alt="Project-Data Memory drawio" src="https://github.com/user-attachments/assets/f9cef407-89f7-4dc9-bec7-83dc5494d896" />
+</p>
+
 ```
 data_ram [wr_addr[DATA_WIDTH-1 : 2] % MEM_SIZE]
 ```
